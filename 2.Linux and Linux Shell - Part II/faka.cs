@@ -7,3 +7,17 @@ public class MyClass {
         Console.WriteLine("Internal Method Called");
     }
 }
+
+public class Program {
+    internal void InternalMethod() {
+        Console.WriteLine("Internal Method Called from Program");
+    }
+    
+    public static void Main() {
+        MyClass myClass = new MyClass();
+        myClass.InternalMethod();
+        
+        Program program = new Program();
+        program.InternalMethod();
+    }
+}
