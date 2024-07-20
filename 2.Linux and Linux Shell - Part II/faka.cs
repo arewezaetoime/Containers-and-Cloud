@@ -21,3 +21,11 @@ public class Program {
         program.InternalMethod();
     }
 }
+
+public class TestClass {
+    [Test]
+    public void TestInternalMethod() {
+        Program program = new Program();
+        program.InternalMethod();
+    }
+}
