@@ -29,3 +29,8 @@ public class TestClass {
         program.InternalMethod();
     }
 }
+
+static void Main() {
+    TestClass testClass = new TestClass();
+    testClass.TestInternalMethod();
+}
