@@ -34,3 +34,5 @@ static void Main() {
     TestClass testClass = new TestClass();
     testClass.TestInternalMethod();
 }
+
+static void TestInternalMethod() {}
