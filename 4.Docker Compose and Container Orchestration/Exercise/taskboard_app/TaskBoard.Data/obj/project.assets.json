@@ -2834,11 +2834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\04-Exercise-Docker-Compose-Resources\\Resources\\taskboard_app\\TaskBoard.Data\\TaskBoard.Data.csproj",
+      "projectUniqueName": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\taskboard_app\\TaskBoard.Data\\TaskBoard.Data.csproj",
       "projectName": "TaskBoard.Data",
-      "projectPath": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\04-Exercise-Docker-Compose-Resources\\Resources\\taskboard_app\\TaskBoard.Data\\TaskBoard.Data.csproj",
+      "projectPath": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\taskboard_app\\TaskBoard.Data\\TaskBoard.Data.csproj",
       "packagesPath": "C:\\Users\\a1bg532545\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\04-Exercise-Docker-Compose-Resources\\Resources\\taskboard_app\\TaskBoard.Data\\obj\\",
+      "outputPath": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\taskboard_app\\TaskBoard.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a1bg532545\\AppData\\Roaming\\NuGet\\NuGet.Config",

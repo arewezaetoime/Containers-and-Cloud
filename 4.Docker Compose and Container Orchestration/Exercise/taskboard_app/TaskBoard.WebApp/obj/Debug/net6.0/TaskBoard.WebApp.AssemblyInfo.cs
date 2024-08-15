@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskBoard.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ef67ca2e091981149f18c9ab941a81612f008d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7009e124c63586aa3c96cf103ce90ea9f8ce1ea1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskBoard.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskBoard.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

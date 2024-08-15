@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M3FG+eA5zYEd9CZe9sK/OBAfQXZrrHDCDZlWjqLgOIXFDRn+qiVlvZ3kf2BT4wNrf+n3nFH+SPkLPGoPlQNfQA==",
+  "dgSpecHash": "/g+PrYqQDiJXqPLDJ1+RthbStZ7+CRd2soQEBwYELsvt37H/aQSn8J3+SMGDmV5vnwVjRIfNO8ZpZrI1gDStVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\04-Exercise-Docker-Compose-Resources\\Resources\\taskboard_app\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\a1bg532545\\Desktop\\Containers-and-Cloud\\4.Docker Compose and Container Orchestration\\Exercise\\taskboard_app\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a1bg532545\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\a1bg532545\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
